@@ -1,1 +1,1 @@
-print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")P
+print("'Hiszpańska ' to najlepszy skecz grupy Monty Pythona")
