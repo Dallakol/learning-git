@@ -1,1 +1,1 @@
-print("'Hiszpańska ' to najlepszy skecz grupy Monty Pythona")
+print("'drugi commit ' to najlepszy skecz grupy Monty Pythona")
